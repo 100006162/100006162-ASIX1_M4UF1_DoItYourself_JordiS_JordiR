@@ -1,35 +1,42 @@
+/* Regla 1 */
 body {
     margin: 0;
     padding: 0 20%;
   }
   
+  /* Regla 2 */
   img {
     width: 100%;
     border: 1px solid black;
     border-radius: 5px;
   }
   
+  /* Regla 3 */
   * {
     font-family: 'Oswald', Arial, sans-serif;
   }
 
+  /* Regla 4 */
   .contenedor h1 {
     display: inline;
     vertical-align: middle;
   }
   
+  /* Regla 5 */
   .contenedor h1 img {
     width: 25%;
     margin-right: 10px;
     border: 1px solid white;
   }
   
+  /* Regla 6 */
   h1 {
     text-align: center;
     text-decoration: underline;
     color: blue;
   }
   
+  /* Regla 7 */
   h2.selector, h2#universal {
     background-color: blue;
     padding: 1%;
@@ -38,17 +45,20 @@ body {
     color: white;
   }
   
+  /* Regla 8 */
   .fin img {
     width: 30%;
     margin-left: 310px;
     border: 1px solid white;
   }
   
+  /* Regla 9 */
   .cuadro1, .cuadro2, .cuadro3, .cuadro4, .cuadro5, .cuadro6 {
     border: 1px solid black;
     padding: 10px;
   }
   
+  /* Regla 10 */
   .selector {
     text-decoration: underline white;
   }
