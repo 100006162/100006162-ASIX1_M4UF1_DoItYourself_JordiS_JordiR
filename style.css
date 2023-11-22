@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0 20%;
+  }
+  
+  img {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  * {
+    font-family: 'Oswald', Arial, sans-serif;
+  }
+
+  .contenedor h1 {
+    display: inline;
+    vertical-align: middle;
+  }
+  
+  .contenedor h1 img {
+    width: 25%;
+    margin-right: 10px;
+    border: 1px solid white;
+  }
+  
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+  }
+  
+  h2.selector, h2#universal {
+    background-color: blue;
+    padding: 1%;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+  }
+  
+  .fin img {
+    width: 30%;
+    margin-left: 310px;
+    border: 1px solid white;
+  }
+  
+  .cuadro1, .cuadro2, .cuadro3, .cuadro4, .cuadro5, .cuadro6 {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .selector {
+    text-decoration: underline white;
+  }
+  
